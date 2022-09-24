@@ -1,0 +1,31 @@
+# Algoritimo - Exercício Ebac Módulo 6.
+Iníco
+01- Acordar
+02- Leventar
+03- Calçar chinelo
+04- Pegar toalha
+05- Caminhar até o banheiro
+06- Abrir porta do banheiro
+07- Tirar a roupa
+08- Ligar chuveiro
+09- Me molhar
+10- Desligar chuveiro
+11- Pegar sabonete
+12- Pegar bucha
+13- Passar sabonete na bucha
+14- Me esfregar com bucha
+15- Ligar chuveiro
+16- Me molhar
+17- Lavar a bucha
+18- Desligar o chuveiro
+19- Guardar a bucha
+20- Pegar a toalha
+21- Me secar
+22- Escovar os dentes
+23- Me vestir
+24- Tomar café
+25- Pegar a mochila
+26- Pegar carteira
+27- Pegar celular
+28- Sair para trabalhar
+Fim.
